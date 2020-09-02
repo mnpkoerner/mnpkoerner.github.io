@@ -15,23 +15,18 @@ body {
     width: 820px;
     margin: 15px auto;
     padding: 15px;
-    border: 1px solid grey;
     border-radius: 2em;
-    background-color:palegoldenrod;
+    background-color: palegoldenrod;
 }
 
 h1 {
     text-align: center;
     font-size: 2em;
 }
-h1:hover {
-    text-decoration: underline;
 }
 h2 {
     text-align: center;
 }
-h2:hover {
-    text-decoration: underline;
 }
 
 .education {
